@@ -1,2 +1,2 @@
 # RNA_ML
-Disciplina "Tópicos em IA: redes neurais e aprendizado de máquina"
+Material da disciplina "Tópicos em IA: redes neurais e aprendizado de máquina" do IFMG Campus Betim.
